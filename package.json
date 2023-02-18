@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://mbarnesdec.github.io/fridayfivebyfive",
+  "homepage": "http://mbarnesdev.github.io/fridayfivebyfive/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
