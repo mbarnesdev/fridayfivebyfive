@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import { Chart, Form } from "@/pages";
 
-// push to gh
+// push to ghaa
 
 const App = () => (
   <Routes>
